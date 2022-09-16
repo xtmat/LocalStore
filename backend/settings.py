@@ -26,7 +26,7 @@ SECRET_KEY = 'sc%oco$+(3$z$at=z4j)#l-+ym)+_b11389mdt2^12m$bf63%@'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'proshop-demo.herokuapp.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost']
 
 
 # Application definition
@@ -127,18 +127,6 @@ DATABASES = {
     }
 }
 
-# Database
-# https://docs.djangoproject.com/en/3.1/ref/settings/#databases
-# DATABASES = {
-#    'default': {
-#        'ENGINE': 'django.db.backends.postgresql',
-#        'NAME': 'proshop',
-#        'USER': 'dennisivy',
-#        'PASSWORD': os.environ.get('DB_PASS'),
-#        'HOST': os.environ.get('HOST'),
-#        'PORT': '5432'
-#    }
-# }
 
 
 # Password validation
