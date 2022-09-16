@@ -1,5 +1,3 @@
-
-
 # Features
 * Full featured shopping cart
 * Product reviews and ratings
