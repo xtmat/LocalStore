@@ -10,7 +10,7 @@
 * Admin Order details page
 * Mark orders as delivered option
 * Checkout process (shipping, payment method, etc)
-* PayPal / credit card integration
+* Razorpay payment gateway integration
 
 
 # Download & Setup Instructions
